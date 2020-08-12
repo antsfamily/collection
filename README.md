@@ -9,7 +9,7 @@
 
 ## Paper Study
 
-| [Paper with Code](./PaperWithCode.md) |
+| [Paper with Code](./PaperWithCode/index.md) |
 
 
 
